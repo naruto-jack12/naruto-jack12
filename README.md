@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+first git
+
+
 <!--
 **naruto-jack12/naruto-jack12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
